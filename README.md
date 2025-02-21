@@ -4,5 +4,7 @@ Repositório para a UC de AVD
 
 # Alunos
 Ana Maciel
+
 Eduarda Veloso
-Miguel 
+
+Miguel aka Michel Gonçalves
