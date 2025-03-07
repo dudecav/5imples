@@ -1,3 +1,12 @@
+---
+title: "Infância Antiga x Atual"
+author: "Eduarda Cavalcanti"
+date: "2025-03-05"
+description: "Entrevista feita à minha mãe, sobre a sua infância."
+---
+
+
+
 # Infância Antiga x Antiga Atual
 **Entrevistador:** Bom dia. Posso gravar a nossa entrevista? 
 
