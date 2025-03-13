@@ -12,9 +12,9 @@
 **Marta:** 25 anos. 
 
 **Ana:** O que é que fazes?  
-**Marta:** Estou a fazer mestrado e trabalho. Gostava de te fazer três perguntas, tens o tempo que quiseres para responder.
+**Marta:** Estou a fazer mestrado e trabalho.
 
-**Ana:** Qual foi o lugar mais bonito que visitaste, e como é que foi?  
+**Ana:** Gostava de te fazer três perguntas, tens o tempo que quiseres para responder. Qual foi o lugar mais bonito que visitaste, e como é que foi?  
 **Marta:** O lugar mais bonito que eu visitei foi Itália, especificamente a costa Amalfitana. Foi muito pacífico, era verão, estava muito quentinho e a água estava muito azul, estava muito sol e a arquitetura é muito antiga. Estou a pensar na costa mesmo, nas casas em cima da costa.
 Não sei, foram uma frases que não estou a fazer. Foi uma viagem num projeto de Erasmus. Acabei por ficar amiga das pessoas que estavam comigo porque ficamos a viver juntos um mês e acho que foi essa a melhor viagem que eu já fiz.
 
