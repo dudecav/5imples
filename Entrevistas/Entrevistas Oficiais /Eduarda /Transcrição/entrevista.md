@@ -6,6 +6,8 @@
 
 **Entrevistadora:** Eu queria saber, como era a relação com seus pais, meus avós, quando você era criança? 
 
+![Meus avôs, minha mãe e meus tios na casa do meu bisavô, em Alagoas, Brasil](Entrevistas/Entrevistas Oficiais /Eduarda /Baú de Família/casaavodevovo.jpg)
+
 **Entrevistada:** Não era uma relação muito próxima, porque a educação antiga não era assim, como é hoje, que os pais são próximos. Hoje, em dia, a educação, os filhos é quem mandma nos pais, os pais não têm autoridade. Mas meus pais, onde a gente ia, nós íamos todos, eram seis filhos, e todo mundo se comportava, a gente nunca teve problema de quebrar coisas, de ficar uma desordem, de ficar correndo pelos lugares, de ir quebrando coisas. Eram seis e todo mundo se comportava, todo mundo entrava no restaurante, todo mundo ficava ordeiro, e, nesse ponto, eu acho que era positivo, porque havia respeito e havia ordem e educação.
 
   Mas meu pai criou a gente com muita rigidez, a educação era muita rigidez, principalmente para mim, que fui a primeira. Os três últimos já foram mais suaves, mas a minha educação, em relação a mim, foi sempre muito rígida. E é tanto que eu, muitas das minhas posições, das minhas atitudes, em decorrência desse tipo de educação que eu tive.
