@@ -1,13 +1,20 @@
 **Entrevistador:** Bom dia, posso gravar a nossa entrevista? 
-**Entrevistada:** Com certeza. Ok. Eu queria saber, como era a relação com seus pais, meus avós, quando você era criança? Não era uma relação muito próxima, porque a educação antiga não era assim, como é hoje, que os pais são próximos.
 
-Hoje, em dia, a educação, os filhos é quem manda nos pais, os pais não têm autoridade. Mas meus pais, onde a gente ia, nós íamos todos, eram seis filhos, e todo mundo se comportava, a gente nunca teve problema de quebrar coisas, de ficar desordem, de ficar correndo pelos lugares, de ir quebrando coisas. Eram seis e todo mundo se comportava, todo mundo entrava no restaurante, todo mundo ficava ordeiro, e, nesse ponto, eu acho que era positivo, porque havia respeito e havia ordem e educação.
+**Entrevistada:** Com certeza. Ok. 
 
-Mas meu pai criou a gente com muita rigidez, a educação era muita rigidez, principalmente para mim, que fui a primeira. Os três últimos já foram mais suaves, mas a minha educação, em relação a mim, foi sempre muito rígida. E é tanto que eu, muitas das minhas posições, das minhas atitudes, em decorrência desse tipo de educação que eu tive.
+**Entrevistador:** Eu queria saber, como era a relação com seus pais, meus avós, quando você era criança? 
 
-Podemos dizer, então, que era uma relação boa, mas tinha a questão da autoridade. A autoridade era uma coisa muito forte, muito evidente. Ok.
+**Entrevistada:** Não era uma relação muito próxima, porque a educação antiga não era assim, como é hoje, que os pais são próximos. Hoje, em dia, a educação, os filhos é quem mandma nos pais, os pais não têm autoridade. Mas meus pais, onde a gente ia, nós íamos todos, eram seis filhos, e todo mundo se comportava, a gente nunca teve problema de quebrar coisas, de ficar uma desordem, de ficar correndo pelos lugares, de ir quebrando coisas. Eram seis e todo mundo se comportava, todo mundo entrava no restaurante, todo mundo ficava ordeiro, e, nesse ponto, eu acho que era positivo, porque havia respeito e havia ordem e educação.
 
-Tem alguma lembrança da sua infância que te marcou muito? Tem várias, em relação a quê? Dependendo do tipo de situação, tem algumas. Alguma coisa que tenha marcado, em algum momento, uma lembrança? Um presente que ele deu, que eles deram em algum momento, alguma viagem, alguma coisa assim. Tem várias coisas.
+  Mas meu pai criou a gente com muita rigidez, a educação era muita rigidez, principalmente para mim, que fui a primeira. Os três últimos já foram mais suaves, mas a minha educação, em relação a mim, foi sempre muito rígida. E é tanto que eu, muitas das minhas posições, das minhas atitudes, em decorrência desse tipo de educação que eu tive.
+
+**Entrevistador:** Podemos dizer, então, que era uma relação boa, mas tinha a questão da autoridade?
+
+**Entrevistada:** A autoridade era uma coisa muito forte, muito evidente. 
+
+**Entrevistador:** Ok. Tem alguma lembrança da sua infância que te marcou muito? 
+
+**Entrevistada:** Tem várias, em relação a quê? Dependendo do tipo de situação, tem algumas. Alguma coisa que tenha marcado, em algum momento, uma lembrança? Um presente que ele deu, que eles deram em algum momento, alguma viagem, alguma coisa assim. Tem várias coisas.
 
 Teve uma viagem que eu fiz com meu pai, que eu fiz com ele e a minha irmã, que a gente fez sozinha, que a gente foi ao médico. A gente morava em Penedo e a gente foi de ônibus, porque eu estava crescendo muito. Eu cresci 12 centímetros no ano.
 
