@@ -1,6 +1,5 @@
-(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
-
-Bom dia, posso gravar a nossa entrevista? Com certeza. Ok. Eu queria saber, como era a relação com seus pais, meus avós, quando você era criança? Não era uma relação muito próxima, porque a educação antiga não era assim, como é hoje, que os pais são próximos.
+**Entrevistador:** Bom dia, posso gravar a nossa entrevista? 
+**Entrevistada:** Com certeza. Ok. Eu queria saber, como era a relação com seus pais, meus avós, quando você era criança? Não era uma relação muito próxima, porque a educação antiga não era assim, como é hoje, que os pais são próximos.
 
 Hoje, em dia, a educação, os filhos é quem manda nos pais, os pais não têm autoridade. Mas meus pais, onde a gente ia, nós íamos todos, eram seis filhos, e todo mundo se comportava, a gente nunca teve problema de quebrar coisas, de ficar desordem, de ficar correndo pelos lugares, de ir quebrando coisas. Eram seis e todo mundo se comportava, todo mundo entrava no restaurante, todo mundo ficava ordeiro, e, nesse ponto, eu acho que era positivo, porque havia respeito e havia ordem e educação.
 
