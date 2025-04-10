@@ -6,7 +6,7 @@
 
 **Entrevistadora:** Eu queria saber, como era a relação com seus pais, meus avós, quando você era criança? 
 
-![Meus avôs, minha mãe e meus tios na casa do meu bisavô, em Alagoas, Brasil](Entrevistas/Entrevistas Oficiais /Eduarda /Baú de Família/casaavodevovo.jpg)
+<img src="Entrevistas/Entrevistas Oficiais/Eduarda/Baú de Família/casaavodevovo.jpg" alt="Minha mãe com seus irmãos sentados no sofá, com a minha avó em pé ao lado esquerdo do sofá e meu avô sentado no braço direito do sofá, na casa do meu bisavô, na Rua do Cravo, Maceió, Alagoas, Brasil, em 1972" title="Casa da avó e do vovô" width="600" height="400">
 
 **Entrevistada:** Não era uma relação muito próxima, porque a educação antiga não era assim, como é hoje, que os pais são próximos. Hoje, em dia, a educação, os filhos é quem mandma nos pais, os pais não têm autoridade. Mas meus pais, onde a gente ia, nós íamos todos, eram seis filhos, e todo mundo se comportava, a gente nunca teve problema de quebrar coisas, de ficar uma desordem, de ficar correndo pelos lugares, de ir quebrando coisas. Eram seis e todo mundo se comportava, todo mundo entrava no restaurante, todo mundo ficava ordeiro, e, nesse ponto, eu acho que era positivo, porque havia respeito e havia ordem e educação.
 
