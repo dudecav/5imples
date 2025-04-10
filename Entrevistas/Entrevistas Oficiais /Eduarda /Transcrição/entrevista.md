@@ -1,3 +1,13 @@
+---
+titulo: "Eco das Raízes"
+data: "09-04-2025"
+Entrevistadora: "Eduarda Cavalcanti"
+Entrevistada: "Rosana Cavalcanti"
+descricao: "Entrevista com a minha mãe, Rosana, sobre assuntos que a fizessem refletir sobre características que ela se orgulha de ter herdado de seus pais, e características que ela se orgulha de ter passado para mim. Sendo assim possível peceber o eco que as raízes fazem em toda a árvore da família e de como todos somos pedacinhos de outras pessoas."
+categoria: "Baú de Família"
+---
+
+
 # Eco das Raízes 
 
 **Entrevistadora:** Bom dia, posso gravar a nossa entrevista? 
@@ -29,6 +39,12 @@
   E a gente ficou no hotel, eu me lembro demais, a gente ficou no hotel no centro de Recife, no Hotel Guararapes. Até hoje eu sinto o cheiro do desinfetante do hotel. Eu tinha 16, não, eu tinha 12 anos, na época tinha 12 anos.
 
   Eu tinha 12 anos e eu já tinha um metro e setenta, eu tinha um metro e setenta, um metro e setenta e um, por aí, com 12 anos. Por conta disso, meu pai ficou preocupado. Mas foi uma viagem inesquecível, porque eu fui [para Recife], fui para o médico. Era um médico lá no Instituto, uma clínica de medicina nuclear. E eu fiz vários testes de vários tipos. Eu fiz exercício para tirar o exercício em repouso, sem ser em repouso, o exame de sangue. Esses exames de sangue foram enviados para os Estados Unidos. Eu retornei [a Recife] 30 dias depois para ver o resultado. E o médico disse que eu ainda ia crescer mais, ia crescer de seis a oito centímetros. Realmente, eu cresci, eu tenho um metro e setenta e oito. Mas, eu com 13 anos, eu já tinha um metro e setenta e oito. Eu era a mais alta do colégio. No sexto ano, eu já era a mais alta do meu colégio. 
+
+<img src="../Ba%C3%BA%20de%20Fam%C3%ADlia/anos70.jpg" 
+     alt="Minha mãe arrumada para o dia da foto, ao lado de um aparelho de som e um toca disco no canto superior esquerdo, em Arapiraca, Alagoas, Brasil, em 1970, quando ela tinha 7 anos de idade." 
+     title="anos 70" 
+     width="600" height="400">
+
   
 **Entrevistadora:** Mas essa memória foi marcante, porque foi um momento de filha única, da senhora com o vovô, ou foi por causa dos exames? 
 
@@ -48,6 +64,12 @@
 
 **Entrevistadora:** Bom, muito bom. A senhora acha que hoje, como adulta, a senhora entende melhor eles naquela época? Como eles agiam, as coisas que eles faziam? 
 
+<img src="../Ba%C3%BA%20de%20Fam%C3%ADlia/vov%C3%B3%20crian%C3%A7a.jpg" 
+     alt="Minha avó, Fátima, ainda criança, por volta de 1 ano de idade, sentada no batente da casa do bisavô, com um vestido claro e laço no cabelo, provavelmente em Bom Conselho, Pernambuco, Brasil, em 1946." 
+     title="Vovó criança" 
+     width="400" height="500">
+
+
 **Entrevistada:** Sim, acho que na vida da gente, na hora, a gente faz sempre o melhor. Não pode querer que a vida deles também pode se posicionar a vida deles, como eles foram criados. Eles também não educaram a gente da forma que eles foram criados, porque a criação deles foi... Eles foram criados com muita dureza. Meus avós criaram o meu pai, tanto a minha mãe como o meu pai. O meu pai foi criado de uma forma muito dura. E eles foram infinitamente melhores com a gente. Mas a educação do meu pai foi muito rígida. Isso aí é sem dúvida. E a gente não pode ficar levando, dizendo que... Pensar só na parte que foi educada muito rígida. Tive uma educação... O meu pai era muito severo, porque era o melhor dele. Tenho certeza absoluta que ele estava fazendo aquilo ali para fazer o melhor. Tenho certeza que ele fez o melhor. Acho que a minha personalidade foi lapidada dessa forma. Não acho ruim a minha forma de ser, não. Eu gosto de ser assim. 
 
 **Entrevistadora:** Se a senhora pudesse mudar, não mudaria nada? 
@@ -56,11 +78,23 @@
 
 **Entrevistadora:** Ok. E agora para as perguntas principais. Qual a característica que a senhora mais se orgulha de ter dado deles? Ou de algum deles? 
 
+<img src="../Ba%C3%BA%20de%20Fam%C3%ADlia/mamaievovo.jpg" 
+     alt="Minha avó segurando a minha mãe com poucos meses de vida, em 1963, na rua 26 de Abril, em Maceió, Alagoas, Brasil, que recebeu esse nome por causa de seu nascimento no dia 26 de Abril de 1963." 
+     title="Mamãe e vovó na frente de casa" 
+     width="600" height="400">
+
+
 **Entrevistada:** Essa parte que eu já falei, que eu tenho uma... Eu sou muito rígida na minha forma de... 
 
 **Entrevistadora:** Em seus ideais, não é? 
 
 **Entrevistada:** Não, mas na minha forma de... De ver as coisas, de analisar. Eu sou muito rígida comigo, principalmente, e com os outros. Eu sou muito severa nas críticas com as pessoas. Eu tenho uma forma de pensar. Sou muito crítica no comportamento das pessoas. Não aceito muitas desculpas. Nisso aí eu sou muito... Você sabe disso. Você é minha filha, você sabe disso. Eu não aceito muitas desculpas, nem minhas. Eu sou muito rígida, principalmente, comigo. E com as pessoas. Assim como eu sou comigo, eu sou com as pessoas. Eu não acho que... Tem muitas coisas que acontecem que as pessoas... Hoje em dia, isso é uma coisa que eu acho errado. Hoje em dia, se desculpam muito as pessoas. "Ah, porque é isso", "porque é aquilo", "Desculpa fulano fez isso porque é assim, porque é assado". Não existe desculpa. As pessoas hoje se desculpam muito pelas más atitudes. E isso que está piorando o mundo é por conta disso. Porque não existe mais rigidez. Tem que ter uma certa rigidez na disciplina das pessoas. Não estou falando de ter regime de dureza, de castigo. Não, não é isso. Tem que ter uma certa cobrança mais rígida nas atitudes das pessoas. E as pessoas hoje estão deixando as coisas correrem frouxas e sem ter uma certa punição pelos atos que as pessoas fazem. E isso eu acho que está acontecendo. Principalmente os pais com os filhos. Os pais estão muito deixando a [coisa] correr frouxa. Não querem mais ter o trabalho de educar os filhos de forma correta. E isso meus pais fizeram bem com a gente. 
+
+<img src="../Ba%C3%BA%20de%20Fam%C3%ADlia/mamaicomsuaavo.jpg" 
+     alt="Minha mãe com 6 meses, no colo de sua avó Paterna, vovó Zuzu, na festa de Natal da família do ano de 1963." 
+     title="Mamãe com sua avó Paterna" 
+     width="400" height="500">
+
 
 Uma coisa também que eu herdei deles, que é uma característica, é a minha memória. Tenho uma memória boa de fatos, de números, de datas, e isso eu herdei muito do meu pai. De memória de coisas que aconteceram, de locais, associar datas com locais. Eu lembro de coisas, dos lugares que morei, de eventos, de datas. Tanto que o Fernando fala muito: "Como é que sabe das datas?". Eu sei datas de coisas da minha infância, sei de tudo. E isso é meu pai. Quando eu lembro de datas, eu lembro dele. Ele sabe datas todas da infância dele e eu lembro isso. Isso é uma característica que eu herdei dele. Meus irmãos têm muito disso. Mas eu me vejo muito nisso aí. Eu herdei dele isso aí. Essa facilidade de decorar eventos, datas, episódios, onde foi, como foi. Isso é a memória que chama a memória do elefante. 
 
@@ -69,6 +103,12 @@ Uma coisa também que eu herdei deles, que é uma característica, é a minha me
 **Entrevistada:** Não, mas dele e de mainha também. Mas mainha é menos flexível. Minha mãe é mais dura. Ela não é muito flexível. Meu pai é mais flexível, ela não. 
 
 **Entrevistadora:** Sim. Ok, e agora a próxima. Qual a característica que a senhora mais se orgulha de ter passado para mim? 
+
+<img src="../Ba%C3%BA%20de%20Fam%C3%ADlia/Imagem%20do%20WhatsApp%20de%202025-02-04%20%C3%A0(s)%2021.52.20_52003f2b.jpg" 
+     alt="Minha mãe comigo no colo, na casa dos pais do seu cunhado, na festa de Ano Novo da família em 31 de dezembro de 1999, em Natal, Rio Grande do Norte, Brasil." 
+     title="Eu e minha mãe" 
+     width="300" height="500">
+
 
 **Entrevistada:** Essa parte de ser uma pessoa mais solidária, mais humana. Eu acho que é ter mais empatia, que hoje se precisa ter olhos de ver as coisas com sentido mais apurado. Não ver as coisas, que eu falo muito, não ver as coisas simplesmente só por ver o que está acontecendo ali, mas o porquê das coisas que estão acontecendo. Eu acho que isso eu consigo passar para você. Você consegue ver isso muito, porque eu falo muito nisso, eu bato muito nisso, que as coisas não podem ser vistas simplesmente só porque você vê, olha e está ali. Não, mas tem que ver o porquê daquilo que está acontecendo ali. Isso a gente tem que analisar e não pode ser, a gente não pode tirar conclusões daquilo porque está ali. Só porque está ali, aí você tira a conclusão daquilo que está ali. Tem que tirar a conclusão do porquê chegou até aquilo ali. E tentar combater antes de chegar aquilo ali, tentar não deixar que aquilo, se quiser que não aconteça, fazer com que aquilo não chegue até o ponto que está do jeito que está. 
 
@@ -88,7 +128,13 @@ E é exatamente, voltamos ao ponto que eu falo, as coisas estão do jeito que es
 
 **Entrevistadora:** Não tem nada que te lembre de alguma coisa que é totalmente diferente de alguma coisa? 
 
-**Entrevistada:** São detalhes pequenos que, às vezes, a forma como minha filha vê, responde, me mostra, que é como se fosse assim, eu acho que é como se me mostrasse uma forma diferente de ver as coisas, entendeu? E isso aí faz de vez em quando, mas não consigo pontuar, dizer exatamente o que é, mas o que acontece ali, acolá, sim, isso acontece. 
+**Entrevistada:** São detalhes pequenos que, às vezes, a forma como minha filha vê, responde, me mostra, que é como se fosse assim, eu acho que é como se me mostrasse uma forma diferente de ver as coisas, entendeu? E isso aí faz de vez em quando, mas não consigo pontuar, dizer exatamente o que é, mas o que acontece ali, acolá, sim, isso acontece.
+
+<img src="../Ba%C3%BA%20de%20Fam%C3%ADlia/euemai.jpg" 
+     alt="Foto minha com minha mãe, em um momento descontraído no quarto em nossa casa, na rua Bento Albuquerbe, em Fortaleza, Ceará, Brasil, em 2001, eu tinha 2 anos de idade." 
+     title="Eu e minha mãe em casa" 
+     width="300" height="500">
+
 
 **Entrevistadora:** Ok. E a última pergunta, se a senhora pudesse dar um conselho para mim, como mãe e como filho de seus pais, qual seria? 
 
@@ -105,3 +151,8 @@ A vida da gente tem que arriscar. A gente não vai fazer coisas que corram risco
 **Entrevistada:** A vida da gente faz o que pode até o destino ser revelado. A gente não sabe o que vai acontecer. A gente não sabe o que vai acontecer, mas a gente faz pensando que pode. Aquilo que a gente quer vai dar certo, mas, às vezes, não dá. Mas a gente tem que fazer por ordem, porque a gente não sabe. Até que o destino seja revelado. Mas a minha experiência de vida é que a gente não pode correr atrás de um sonho, de uma coisa, e gastar todos os nossos esforços naquilo ali sem olhar para os lados. Só olhar em fresta, ficar olhando aquilo ali naquele sonho. Essa foi a lição de vida que eu aprendi. A gente tem que deixar as portas abertas e deixar as coisas virem. Porque, na minha experiência de vida, a maioria das coisas que eu pensei em ir atrás, não deram certo. Então, hoje, eu espero que as coisas venham para mim e, a partir daquilo que vem, eu sigo. Eu pego o que vem e sigo com aquilo que vem para mim. Porque ficar batendo na porta de coisas, tentando, tentando, tentando, naquilo que, às vezes, você deixa de ver o que está do lado, que é a oportunidade. É muito melhor do que aquilo que você está olhando em frente sem olhar para os lados. Isso aí é uma lição que muita gente só aprende com o tempo. Mas, hoje, na minha experiência, é essa a experiência que eu passo para você. 
 
 **Entrevistadora:** Está bem. Obrigada, mãe.
+
+<img src="../Ba%C3%BA%20de%20Fam%C3%ADlia/todos.jpg" 
+     alt="Eu, minha mãe, meu avô e minha avó, em 2024, em Braga, Portugal, quando os meus avôs vieram nos fazer uma visita, depois de mais de ano sem nos encontrarmos" 
+     title="Reunião em braga" 
+     width="300" height="500">
