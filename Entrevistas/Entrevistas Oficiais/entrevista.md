@@ -1,40 +1,32 @@
-**Entrevistador:** Bom dia, posso gravar a nossa entrevista? 
+# Eco das Raízes 
+
+**Entrevistadora:** Bom dia, posso gravar a nossa entrevista? 
 
 **Entrevistada:** Com certeza. Ok. 
 
-**Entrevistador:** Eu queria saber, como era a relação com seus pais, meus avós, quando você era criança? 
+**Entrevistadora:** Eu queria saber, como era a relação com seus pais, meus avós, quando você era criança? 
 
 **Entrevistada:** Não era uma relação muito próxima, porque a educação antiga não era assim, como é hoje, que os pais são próximos. Hoje, em dia, a educação, os filhos é quem mandma nos pais, os pais não têm autoridade. Mas meus pais, onde a gente ia, nós íamos todos, eram seis filhos, e todo mundo se comportava, a gente nunca teve problema de quebrar coisas, de ficar uma desordem, de ficar correndo pelos lugares, de ir quebrando coisas. Eram seis e todo mundo se comportava, todo mundo entrava no restaurante, todo mundo ficava ordeiro, e, nesse ponto, eu acho que era positivo, porque havia respeito e havia ordem e educação.
 
   Mas meu pai criou a gente com muita rigidez, a educação era muita rigidez, principalmente para mim, que fui a primeira. Os três últimos já foram mais suaves, mas a minha educação, em relação a mim, foi sempre muito rígida. E é tanto que eu, muitas das minhas posições, das minhas atitudes, em decorrência desse tipo de educação que eu tive.
 
-**Entrevistador:** Podemos dizer, então, que era uma relação boa, mas tinha a questão da autoridade?
+**Entrevistadora:** Podemos dizer, então, que era uma relação boa, mas tinha a questão da autoridade?
 
 **Entrevistada:** A autoridade era uma coisa muito forte, muito evidente. 
 
-**Entrevistador:** Ok. Tem alguma lembrança da sua infância que te marcou muito? 
+**Entrevistadora:** Ok. Tem alguma lembrança da sua infância que te marcou muito? 
 
 **Entrevistada:** Tem várias, em relação a quê? Dependendo do tipo de situação, tem algumas. Alguma coisa que tenha marcado, em algum momento, uma lembrança? Um presente que ele deu, que eles deram em algum momento, alguma viagem, alguma coisa assim. Tem várias coisas.
 
-Teve uma viagem que eu fiz com meu pai, que eu fiz com ele e a minha irmã, que a gente fez sozinha, que a gente foi ao médico. A gente morava em Penedo e a gente foi de ônibus, porque eu estava crescendo muito. Eu cresci 12 centímetros no ano.
+  Teve uma viagem que eu fiz com meu pai, que eu fiz com ele e a minha irmã, que a gente fez sozinha, que a gente foi ao médico. A gente morava em Penedo e a gente foi de ônibus, porque eu estava crescendo muito. Eu cresci 12 centímetros em um ano. E aí meu pai ficou muito preocupado. Eu só tinha 12 anos. E a gente foi de ônibus. Foi um dia, um fim de semana assim, e isso aí nunca aconteceu, nunca tinha acontecido. Minha mãe não podia ir, porque tinha outros quatro para tomar conta. Então, meu pai foi eu e minha outra irmã, a segunda depois de mim.
+  
+  E a gente ficou no hotel, eu me lembro demais, a gente ficou no hotel no centro de Recife, no Hotel Guararapes. Até hoje eu sinto o cheiro do desinfetante do hotel. Eu tinha 16, não, eu tinha 12 anos, na época tinha 12 anos.
 
-E aí meu pai ficou muito preocupado. Eu só tinha 12 anos. E a gente foi de ônibus.
+  Eu tinha 12 anos e eu já tinha um metro e setenta, eu tinha um metro e setenta, um metro e setenta e um, por aí, com 12 anos. Por conta disso, meu pai ficou preocupado. Mas foi uma viagem inesquecível, porque eu fui e fui para o médico. Era um médico lá no Instituto, uma clínica de medicina nuclear. E eu fiz vários testes de vários tipos. Eu fiz exercício para tirar o exercício em repouso, CC em repouso, o exame de sangue. Esses exames de sangue foram enviados para os Estados Unidos. Eu retornei a Recife 30 dias depois para ver o resultado. E o médico disse que eu ainda ia crescer mais, ia crescer de seis a oito centímetros. Realmente, eu cresci, eu tenho um metro e setenta e oito. Mas, com 13 anos, eu já tinha um metro e setenta e oito. Eu era a mais alta do colégio. No sexto ano, eu já era a mais alta do meu colégio. 
+  
+**Entrevistadora:** Mas essa memória foi marcante, porque foi um momento de filha única, da senhora com o vovô, ou foi por causa dos exames? 
 
-Foi um dia, um fim de semana assim, que isso aí nunca aconteceu, nunca tinha acontecido. Minha mãe não podia ir, porque tinha outros quatro para tomar conta. Então, meu pai foi eu e minha outra irmã, depois de mim.
-
-E a gente ficou no hotel, me lembro demais, a gente ficou no hotel no centro de Recife, no Hotel Guararapes. Até hoje eu sinto o cheiro do desinfetante do hotel. Eu tinha 16, tinha 12 anos, na época tinha 12 anos.
-
-Eu tinha 12 anos e eu já tinha um metro e setenta, eu tinha um metro e setenta, um metro e setenta e um, por aí, com 12 anos. Por conta disso, meu pai ficou preocupado. Mas foi uma viagem inesquecível, porque eu fui e fui para o médico.
-
-Era um médico lá no Instituto, uma clínica de medicina nuclear. E eu fiz vários testes de vários tipos. Eu fiz exercício para tirar o exercício em repouso, CC em repouso, tirar o exame de sangue.
-
-Esses exames de sangue foram para os Estados Unidos. Eu retornei 30 dias depois para ver o resultado. E o médico disse que eu ainda ia crescer mais, ia crescer de seis a oito centímetros.
-
-Realmente, eu cresci, eu tenho um metro e setenta e oito. Mas, com 13 anos, eu já tinha um metro e setenta e oito. Eu era a mais alta do colégio.
-
-No sexto ano, eu já era a mais alta do meu colégio. Mas essa memória foi marcante, porque foi um momento de filha única, da senhora com o vovô, ou foi por causa dos exames? Foi tudo. Foi a única vez que eu viajei com o meu pai.
-
-Já viajei depois, já de adulta. Mas foi a única vez que isso aconteceu. Foi uma coisa que, para mim, foi uma coisa que me levou para uma preocupação que ele teve comigo.
+**Entrevistada:** Foi tudo. Foi a única vez que eu viajei com o meu pai. Já viajei depois, já adulta. Mas foi a única vez que isso aconteceu. Foi uma coisa que, para mim, foi uma coisa que me levou para uma preocupação que ele teve comigo.
 
 E foi uma coisa totalmente diferente. Foi uma cidade que eu nunca tinha ido para Recife. Eu não me lembro de ter ido para Recife.
 
