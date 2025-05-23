@@ -8,7 +8,7 @@ categoria: "Baú de Família"
 ---
 **M. Edite:** Então diz-me outra vez quais são as perguntas que há para eu pôr aqui que já não me lembro. 
 
-**Ent.:**As perguntas. Primeira é, eu queria saber uma característica do teu pai e da tua mãe que tu admiras e que sentes que eles transmitiram para ti.
+**Ent.:** As perguntas. Primeira é, eu queria saber uma característica do teu pai e da tua mãe que tu admiras e que sentes que eles transmitiram para ti.
 Portanto, uma característica tua, de que tu te orgulhas e que sentes que herdaste do teu pai e da tua mãe. Ou uma de cada, como tu tiveres vontade de falar. 
 
 **M. Edite:** Tem de ser do pai e da mãe ou pode ser dos avós? 
