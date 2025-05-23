@@ -1,3 +1,12 @@
+---
+titulo: "O que herdei do meu pai - Pedro"
+data: "06-04-2025"
+Entrevistadora: "Ana Paula Maciel"
+Entrevistada: "Pedro Meneses"
+descricao: "Entrevista com o meu namorado, Pedro Meneses, sobre as características do seu pai de que ele se orgulha de ter herdado."
+categoria: "Baú de Família"
+---
+
 # Entrevista a Pedro M., 50 anos
 
 **Pergunta:** Gostaria que me dissesses uma característica que tenhas herdado do teu pai ou da tua mãe, da qual te orgulhas, e porquê, ou como se manifesta.
