@@ -3,7 +3,7 @@ titulo: "O que deixei aos meus filhos - Luís"
 data: "15-04-2025"
 Entrevistadora: "Ana Paula Maciel"
 Entrevistada: "Luís Maciel"
-descricao: "Entrevista com o meu pai, Luís Maciel, sobre as características das suas filhas de que ele se orgulha e que sente que herdaram dele ou foram produto da sua educação."
+descricao: "Entrevista com o meu pai, Luís Maciel, sobre características dos pais que ele se orgulha de ter herdado e características das suas filhas de que ele se orgulha e que sente que herdaram dele ou foram produto da sua educação."
 categoria: "Baú de Família"
 ---
 
