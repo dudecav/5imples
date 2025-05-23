@@ -1,3 +1,12 @@
+---
+titulo: "O que deixei ao meu filho - Pedro"
+data: "06-04-2025"
+Entrevistadora: "Ana Paula Maciel"
+Entrevistada: "Pedro"
+descricao: "Entrevista com o meu namorado, Pedro Meneses, sobre as características do seu filho de que ele se orgulha e que sente que herdou dele ou foram produto da sua educação."
+categoria: "Baú de Família"
+---
+
 # Entrevista 2 a Pedro M, 50 anos
 
 **Pergunta:** Gostaria que me dissesses uma característica que aprecias no teu filho, da qual te orgulhas, que sentes que herdou de ti ou aprendeu contigo, e porquê, ou como se manifesta.
