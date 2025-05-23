@@ -1,5 +1,11 @@
-(Transcrito por TurboScribe.ai.)
-
+---
+titulo: "O que herdei e deixei aos meus filhos - Maria Edite Rio"
+data: "15-04-2025"
+Entrevistadora: "Ana Paula Maciel"
+Entrevistada: "Maria Edite Rio"
+descricao: "Entrevista com a minha mãe, Maria Edite Rio, sobre as características que tem orgulho de ter herdado dos seus ascendentes e as características das suas filhas de que ela se orgulha e que sente que herdaram dela ou foram produto da sua educação."
+categoria: "Baú de Família"
+---
 **M. Edite:** Então diz-me outra vez quais são as perguntas que há para eu pôr aqui que já não me lembro. 
 
 **Ent.:**As perguntas. Primeira é, eu queria saber uma característica do teu pai e da tua mãe que tu admiras e que sentes que eles transmitiram para ti.
