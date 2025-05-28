@@ -1,1 +1,0 @@
-![Luis_pais_irmaos](Entrevistas/Entrevistas Oficiais/Ana Paula/Baú de Família/Luis_pais_irmaos.jpeg)
