@@ -1,0 +1,24 @@
+import spacy
+import sys
+import pandas as pd
+
+pln = spacy.load("pt_core_news_lg")
+
+file = sys.argv[1]
+with open(file, encoding="utf-8") as f:
+    txt = f.read()
+
+doc = pln(txt)
+
+dados = []
+
+for token in doc:
+    if not token.is_space and not token.is_punct:  # Ignorar espaços e pontuações
+        entidade = token.ent_type_ if token.ent_type_ else ""  # Se for entidade, pega o tipo; senão, deixa vazio
+        dados.append([token.text, token.lemma_, entidade])
+
+df = pd.DataFrame(dados, columns=["Palavra", "Lema", "Entidade"])
+
+df.to_csv("Entidades_Lemas.csv", index=False, sep="\t", encoding="utf-8")
+
+print("Arquivo CSV 'Entidades_Lemas.csv' gerado com sucesso!")
